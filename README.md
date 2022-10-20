@@ -1,1 +1,1 @@
-Welcome to Target Practice. Use your left and right arrow keys to move the white turtle in the center. Aim the tip of the turtle with the blue dot on the screen and fire! Have fun and get to practicing.🎯
+Welcome to Target Practice. Use your left and right arrow keys to move the white turtle in the center. Aim the tip of the turtle with the blue dot on the screen and fire! Have fun and get to practicing!🎯
